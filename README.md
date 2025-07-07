@@ -1,6 +1,6 @@
 # Simple Turtle Game
 
-Turtle is a vector graphics library built in the Python programming language. It can be used to make fun little games as well, like this simple maze game. 
+Turtle is a vector graphics library built in the Python programming language. It can be used to make fun little games as well, like this simple maze game. Suitable for teaching basic programming logic to the public with little to no IT experience. 
 
 ## How It Works
 
@@ -14,4 +14,4 @@ Turtle can still move "above the walls" because the Maze grid is just a static b
 
 ## Credits
 
-Part of KKN-PPM UGM Periode II 2025 Bolo Bulukerto
+Part of KKN-PPN UGM II 2025 Bolo Bulukerto. 
