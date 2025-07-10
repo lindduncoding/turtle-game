@@ -14,4 +14,4 @@ Turtle can still move "above the walls" because the Maze grid is just a static b
 
 ## Credits
 
-Part of KKN-PPN UGM II 2025 Bolo Bulukerto. 
+Part of KKN-PPM UGM II 2025 Bolo Bulukerto. 
